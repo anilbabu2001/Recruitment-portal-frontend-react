@@ -18,7 +18,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?logo=appveyor&logoColor=white)](http://your-live-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?logo=appveyor&logoColor=white)](https://recruitment-portal-frontend-react.vercel.app/)
 
 ---
 
