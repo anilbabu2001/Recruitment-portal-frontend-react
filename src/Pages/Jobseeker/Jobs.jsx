@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import JobseekerNavbar from "../../Components/JobseekerNavbar";
-import JobCard from "../../Components/Jobcard"; // adjust path if your project uses Shared/JobCard
+import JobCard from "../../Components/JobCard"; // adjust path if your project uses Shared/JobCard
 import { jobs as mockJobs } from "../../Data/JobsData";
 
 function Jobs() {
